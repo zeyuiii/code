@@ -9,7 +9,6 @@ import java.util.Objects;
  
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
- 
 import com.alibaba.work.faas.common.AbstractEntry;
 import com.alibaba.work.faas.common.FaasInputs;
 import com.alibaba.work.faas.util.DESUtil;
@@ -17,7 +16,6 @@ import com.alibaba.work.faas.util.DingOpenApiUtil;
 import com.alibaba.work.faas.util.YidaConnectorUtil;
 import com.alibaba.work.faas.util.YidaConnectorUtil.ConnectorTypeEnum;
 import com.aliyun.dingtalkyida_1_0.models.BatchSaveFormDataRequest;
- 
 import org.apache.commons.lang3.StringUtils;
  
 /**
